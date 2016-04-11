@@ -1,4 +1,4 @@
-name: Shop Japan Beauty Products
+name: Experience Japan Beauty Products
 favicon: null
 layout_spectrum: 0.19849777594208717
 typography_spectrum: 0.7164651707280427
@@ -22,7 +22,7 @@ color:
     - '#a31e53'
     - '#0d0e12'
     - '#8f5352'
-  brandStrength: 0.9375
+  brandStrength: 0.125
   lightness: 0.3048395267687738
   saturation: 0.5625
   rhythmicContrast: 0.6471708531025797
