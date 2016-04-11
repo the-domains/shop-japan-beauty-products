@@ -1,0 +1,28 @@
+name: Shop Japan Beauty Products
+favicon: null
+layout_spectrum: 0.19849777594208717
+typography_spectrum: 0.7164651707280427
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.8497037619818002
+  lightness: 0.3048395267687738
+  saturation: 0.22544278763234615
+  rhythmicContrast: 0.6471708531025797
+purpose: []
