@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Shop Japan Beauty Products]]></title>
-        <description><![CDATA[Shop Japan Beauty Products]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Experience Japan Beauty Products]]></title>
+        <description><![CDATA[Experience Japan Beauty Products]]></description>
+        <link>https://thegrid.ai/shop-japan-beauty-products/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 08:59:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 13:52:37 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/shop-japan-beauty-products/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/430e839a-d0be-4717-bdfc-c1ae38fb7939.jpg" alt="" title="">]]></description>
-            <link>undefinedto-cool-nail-like-ying-yang/index.html</link>
+            <title><![CDATA[Japan Nail Salon Experience]]></title>
+            <description><![CDATA[<article><h1>Japan Nail Salon Experience</h1><p>to cool nail like Ying-Yang!</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/41deb10349fbc9a3c466073ecdfbd574cdb8f86d.jpg"></article>]]></description>
+            <link>https://thegrid.ai/shop-japan-beauty-products/to-cool-nail-like-ying-yang/index.html</link>
             <guid isPermaLink="false">022e9786-c157-4551-8ce3-58574b8c56f8</guid>
-            <pubDate>Mon, 11 Apr 2016 08:59:01 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2016 13:51:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
