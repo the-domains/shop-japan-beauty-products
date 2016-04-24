@@ -1,15 +1,16 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
-starred: false
 keywords: []
 description: 'to cool nail like Ying-Yang!'
-datePublished: '2016-04-11T13:51:52.607Z'
-dateModified: '2016-04-11T13:51:49.582Z'
-title: Japan Nail Salon Experience
-author: []
+datePublished: '2016-04-24T05:24:10.396Z'
+dateModified: '2016-04-24T05:24:09.804Z'
+title: ''
+author:
+  - name: ''
+    url: ''
 sourcePath: _posts/2016-04-11-to-cool-nail-like-ying-yang.md
 published: true
 authors: []
@@ -18,6 +19,7 @@ publisher:
   domain: null
   url: null
   favicon: null
+starred: true
 url: to-cool-nail-like-ying-yang/index.html
 _type: Article
 
